@@ -1,19 +1,3 @@
-/*
- ----------------- COMP 310/ECSE 427 Winter 2018 -----------------
- Dimitri Gallos
- Assignment 2 skeleton
- 
- -----------------------------------------------------------------
- I declare that the POS below is a genuine piece of work
- and falls under the McGill code of conduct, to the best of my knowledge.
- -----------------------------------------------------------------
- */
-
-//Please enter your name and McGill ID below
-//Name: Victor Verchkovski
-//McGill ID: 260512650
-
- 
 
 #include <stdio.h>
 #include <pthread.h>
